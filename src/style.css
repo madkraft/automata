@@ -1,0 +1,18 @@
+body {
+  background-color: #ccc;
+  margin: 0;
+}
+
+.cell {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+}
+
+.inactive {
+  background-color: #fcd122;
+}
+
+.active {
+  background-color: #060;
+}

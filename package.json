@@ -1,0 +1,20 @@
+{
+  "name": "automata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "es6-module-loader": "^0.17.11",
+    "systemjs": "^0.19.27",
+    "traceur": "0.0.108"
+  },
+  "devDependencies": {
+    "lite-server": "^2.2.0"
+  }
+}
