@@ -1,10 +1,7 @@
-import createRow from './createRow.js'
+import createAutomata from './createRow.js'
 
 const init = () => {
-  createRow()
-  createRow()
-  createRow()
-  // setInterval(createRow, 500)
+  createAutomata()
 }
 
 init()
